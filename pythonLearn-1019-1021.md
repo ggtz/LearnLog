@@ -1,3 +1,4 @@
+# 学习内容
 # 数据抽象
 ## 简介
 type(num)#可查看num的类
@@ -224,3 +225,6 @@ check_balance(a)
 # 类、对象、方法、属性
 类属性、
 实例（对象）属性
+
+# 未来学习规划
+准备跟完这个项目flax部分：https://github.com/gordicaleksa/get-started-with-JAX
